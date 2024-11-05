@@ -7,6 +7,7 @@ A modern, responsive portfolio website built with React that showcases my skills
 - [About](#about)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Deployment](#deployment)
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
 - [Folder Structure](#folder-structure)
@@ -33,6 +34,10 @@ This portfolio website is a single-page application (SPA) built with React. It p
   - JavaScript (ES6+)
   - React Router (for navigation)
   - Styled Components / CSS Modules (for styling)
+
+## Deployment
+
+https://kushalportfolionsut.netlify.app/
 
 ## Setup and Installation
 
