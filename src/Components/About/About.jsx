@@ -16,7 +16,7 @@ const About = () => {
                 <p className="about__description">
                   I am Kushal, a computer science student currently exploring the Full stack. I am dedicated to developing my skills in creating modern web applications. With a focus on MongoDB, Express.js, React, and Node.js, I aim to contribute fresh perspectives and innovative solutions in the realm of web development.
                 </p>
-                <a download="" href={Resume} className="button button--flex" target="_blank">View Resume
+                <a download="" href={Resume} className="button button--flex" rel="noopener noreferrer" target="_blank">View Resume
                 <svg
                 className="button__icon"
                 xmlns="http://www.w3.org/2000/svg"

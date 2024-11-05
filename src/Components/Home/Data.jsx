@@ -1,6 +1,5 @@
 import React from 'react'
 import handIcon from '../../assets/hand.svg';
-import sendIcon from '../../assets/send.svg';
 const Data = () => {
   return (
     <div className="home__data">
